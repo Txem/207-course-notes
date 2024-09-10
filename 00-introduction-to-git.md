@@ -1,7 +1,7 @@
 # Chapter 0: Introduction to Git
 Throughout this course and most future programming endeavors, you will be using version control systems to manage your code. Git is one common version control system and will be the primary focus for this course.
 
-## 0.1. What is Version Control?
+## 0.1. What is Version Control? (test for git)
 Version control systems are just that: a way for us to control the versions of our code. This means tracking the changes that we've made, and control our revisions.
 
 Think of how you would work together with others (or with yourself across multiple machines) on a coding-based project: do you send around a `.zip` file of the latest version of your code? Do you send snippets of the changes you want made to someone else, who has the master copy? Do you work using a collaborative software (like Google Docs), updating your code in the same place?
